@@ -99,7 +99,3 @@ Your Balance is Rs10000.
 
 ## License
 This program is open-source. You can modify and distribute it as needed.
-
----
-
-This version reflects that the main program file is named `MAIN.c`. Let me know if you need further adjustments!
