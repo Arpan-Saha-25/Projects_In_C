@@ -86,5 +86,3 @@ If you would like to contribute to this project, please fork the repository, mak
 ## Contact
 
 For any questions or feedback, please contact [arpansaha004@gmail.com].
-
-```
