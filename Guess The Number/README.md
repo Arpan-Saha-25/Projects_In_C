@@ -14,7 +14,7 @@ This is a simple "Guess the Number" game implemented in C. The program generates
   - Super Hard: 3 chances
 - **Hints**: Provides hints if the guess is too high or too low.
 - **Color Scheme**: The console background color is set to purple for better visibility.
-
+```
 ## Installation
 
 1. **Clone the repository** (if applicable):
