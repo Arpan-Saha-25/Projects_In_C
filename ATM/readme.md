@@ -98,7 +98,7 @@ Your Balance is Rs10000.
 - You can update the `data.txt` file with more card numbers and PINs to simulate multiple users.
 
 ## License
-This program is open-source and licensed under the MIT License. You can modify and distribute it as needed.
+This program is open-source. You can modify and distribute it as needed.
 
 ---
 
