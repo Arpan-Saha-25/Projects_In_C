@@ -29,10 +29,10 @@ A simple command-line To-Do List Manager written in C. This program allows users
     ```
 
 ## Menu Options
-Press 1 to add a task
-Press 2 to see all tasks
-Press 3 to mark a task as complete
-Press 4 to exit
+1. Press 1 to add a task.
+2. Press 2 to see all tasks.
+3. Press 3 to mark a task as complete.
+4. Press 4 to exit.
 
 ## Code Structure
 main.c: Contains the implementation of the To-Do List Manager, including task management functions.
