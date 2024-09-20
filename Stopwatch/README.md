@@ -14,30 +14,30 @@ This is a simple Stopwatch application written in C. It displays the elapsed tim
 ## Code Explanation
 
 ### Includes
-'''
+```
 #include <stdio.h>
 #include <windows.h>
-'''
+```
 
 - stdio.h: Standard Input/Output header for using printf.
 - windows.h: Header for Windows API functions, utilized here for Sleep().
 
 ### Functions
 #### clearScreen()
-'''
+```
 void clearScreen() {
     printf("\033[H\033[J");
 }
-'''
+```
 
 - This function is intended to clear the console screen using ANSI escape codes. However, it may not work in all environments, since it is typically more reliable in terminal emulators supporting ANSI but not in the Windows console.
 
 ### main()
-'''
+```
 int main() {
     ...
 }
-'''
+```
 - This is the entry point of the program. It initializes variables for hours, minutes, and seconds, and enters an infinite loop to continuously update and display the stopwatch's time.
 
 ### Variables
@@ -52,14 +52,14 @@ int main() {
 
 ## Compilation and Execution
 1. Compile the code:
-   '''
+   ```
    gcc stopwatch.c -o stopwatch.exe
-   '''
+   ```
 
 2. Run the executable:
-   '''
+   ```
    stopwatch.exe
-   '''
+   ```
 
 ## Note
 Due to the reliance on Windows-specific features, this code may not work on other operating systems without modification.
