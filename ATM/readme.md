@@ -36,7 +36,7 @@ To run this program, you need:
 
 1. **Clone the Repository** (or copy the files to your system):
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Arpan-Saha-25/Projects_In_C/tree/main/ATM
    ```
    Alternatively, download the `MAIN.c` and `data.txt` files manually.
 
