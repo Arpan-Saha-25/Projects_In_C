@@ -6,6 +6,8 @@ This is a simple ATM simulation program written in C that allows users to:
 - Deposit money.
 - Exit the ATM system.
 
+![Alt text](image.png)
+
 The program reads valid card numbers and their corresponding PINs from a file named `data.txt`. The user must enter a valid 12-digit card number and 5-digit PIN to access the ATM services.
 
 ## Features
