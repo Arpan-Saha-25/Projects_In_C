@@ -1,5 +1,6 @@
-```markdown
 # Guess the Number Game
+
+![Alt text](image.png)
 
 ## Description
 
@@ -14,13 +15,11 @@ This is a simple "Guess the Number" game implemented in C. The program generates
   - Super Hard: 3 chances
 - **Hints**: Provides hints if the guess is too high or too low.
 - **Color Scheme**: The console background color is set to purple for better visibility.
-```
+
+
 ## Installation
 
-1. **Clone the repository** (if applicable):
-   ```bash
-   git clone <repository_url>
-   ```
+1. **Clone the repository**
 
 2. **Navigate to the project directory**:
    ```bash
