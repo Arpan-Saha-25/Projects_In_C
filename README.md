@@ -10,13 +10,13 @@ The projects cover various topics, including:
 - 📈 **Utilities**: Tools for performing specific tasks, like calculators or converters
 
 ## 🚀 Getting Started
-To clone the repository, use the following command:
+### To clone the repository, use the following command:
 
 ```bash
 git clone https://github.com/Arpan-Saha-25/Projects_In_C.git
 ```
 
-Navigate to the project folder and compile any of the C files:
+### Navigate to the project folder and compile any of the C files:
 
 ```bash
 cd [your-project-directory]
